@@ -13,6 +13,7 @@
 		9CCF21551B99724A00B1E1D5 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 9CCF21541B99724A00B1E1D5 /* Images.xcassets */; };
 		9CCF21581B99724A00B1E1D5 /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = 9CCF21561B99724A00B1E1D5 /* LaunchScreen.xib */; };
 		9CCF21641B99724A00B1E1D5 /* teamMateTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9CCF21631B99724A00B1E1D5 /* teamMateTests.swift */; };
+		9CCF216E1B9978EE00B1E1D5 /* f007.png in Resources */ = {isa = PBXBuildFile; fileRef = 9CCF216D1B9978EE00B1E1D5 /* f007.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -36,6 +37,7 @@
 		9CCF215D1B99724A00B1E1D5 /* teamMateTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = teamMateTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		9CCF21621B99724A00B1E1D5 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		9CCF21631B99724A00B1E1D5 /* teamMateTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = teamMateTests.swift; sourceTree = "<group>"; };
+		9CCF216D1B9978EE00B1E1D5 /* f007.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = f007.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -77,6 +79,7 @@
 		9CCF214A1B99724A00B1E1D5 /* teamMate */ = {
 			isa = PBXGroup;
 			children = (
+				9CCF216D1B9978EE00B1E1D5 /* f007.png */,
 				9CCF214D1B99724A00B1E1D5 /* AppDelegate.swift */,
 				9CCF214F1B99724A00B1E1D5 /* ViewController.swift */,
 				9CCF21511B99724A00B1E1D5 /* Main.storyboard */,
@@ -192,6 +195,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				9CCF216E1B9978EE00B1E1D5 /* f007.png in Resources */,
 				9CCF21531B99724A00B1E1D5 /* Main.storyboard in Resources */,
 				9CCF21581B99724A00B1E1D5 /* LaunchScreen.xib in Resources */,
 				9CCF21551B99724A00B1E1D5 /* Images.xcassets in Resources */,
