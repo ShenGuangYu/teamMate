@@ -186,7 +186,7 @@
                             <tableViewSection id="g3B-rf-7Dr">
                                 <cells>
                                     <tableViewCell contentMode="scaleToFill" selectionStyle="default" accessoryType="disclosureIndicator" indentationWidth="10" rowHeight="141" id="VhZ-18-dcA">
-                                        <rect key="frame" x="0.0" y="64" width="320" height="141"/>
+                                        <rect key="frame" x="0.0" y="0.0" width="320" height="141"/>
                                         <autoresizingMask key="autoresizingMask"/>
                                         <tableViewCellContentView key="contentView" opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center" tableViewCell="VhZ-18-dcA" id="5AY-fK-m2b">
                                             <rect key="frame" x="0.0" y="0.0" width="287" height="140.5"/>
@@ -252,7 +252,7 @@
                                         </connections>
                                     </tableViewCell>
                                     <tableViewCell contentMode="scaleToFill" selectionStyle="default" accessoryType="disclosureIndicator" indentationWidth="10" rowHeight="141" id="ObF-mC-i4R">
-                                        <rect key="frame" x="0.0" y="205" width="320" height="141"/>
+                                        <rect key="frame" x="0.0" y="141" width="320" height="141"/>
                                         <autoresizingMask key="autoresizingMask"/>
                                         <tableViewCellContentView key="contentView" opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center" tableViewCell="ObF-mC-i4R" id="hKt-4E-hvU">
                                             <rect key="frame" x="0.0" y="0.0" width="287" height="140.5"/>
@@ -318,7 +318,7 @@
                                         </connections>
                                     </tableViewCell>
                                     <tableViewCell contentMode="scaleToFill" selectionStyle="default" accessoryType="disclosureIndicator" indentationWidth="10" rowHeight="141" id="qwl-em-55Y">
-                                        <rect key="frame" x="0.0" y="346" width="320" height="141"/>
+                                        <rect key="frame" x="0.0" y="282" width="320" height="141"/>
                                         <autoresizingMask key="autoresizingMask"/>
                                         <tableViewCellContentView key="contentView" opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center" tableViewCell="qwl-em-55Y" id="3yr-w4-sb7">
                                             <rect key="frame" x="0.0" y="0.0" width="287" height="140.5"/>
